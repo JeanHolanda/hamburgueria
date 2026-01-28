@@ -43,10 +43,12 @@ hamburgueria/
 ```
 ## 🖼️ Preview
 <p align="center">
-  <img src='assets/Beige Minimalist Mockup Instagram Post.png' width="600">
-  <img src='assets/Beige Minimalist Mockup Instagram Post (1).png' width="600">
-  <img src='assets/Beige Minimalist Mockup Instagram Post (2).png' width="600">
-  <img src='assets/Beige Minimalist Mockup Instagram Post (3).png' width="600">
+  <img src='assets/Beige Minimalist Mockup Instagram Post.png' width="500">
+  <img src='assets/Beige Minimalist Mockup Instagram Post (1).png' width="500">
+</p>
+<p align="center">
+  <img src='assets/Beige Minimalist Mockup Instagram Post (2).png' width="500">
+  <img src='assets/Beige Minimalist Mockup Instagram Post (3).png' width="500">
 </p>
 
 ## 🔗 Acesso ao projeto
