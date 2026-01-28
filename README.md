@@ -1,9 +1,52 @@
-<h1>PROJETO HAMBÚRGUERIA 🍔</h1>
-<br>
-<h2>Tecnologias utilizadas:</h2>
-<br>
-<h3>- HTML</h3>
-<h3>- CSS</h3>
-<h3>- JAVASCRIPT</h3>
-<br>
-<img src='https://raw.githubusercontent.com/JeanHolanda/Projeto-Hamburgueria/a43df38ba9fda48c701b44620848ac4cda94a3e6/assets/Beige%20Minimalist%20New%20Website%20Launch%20Instagram%20Post%20(1).png' height= 700px>
+# 🍔 Hamburgueria
+## 📌 Descrição
+
+Projeto de uma hamburgueria fictícia desenvolvido com HTML, CSS e JavaScript. A aplicação simula uma vitrine de produtos e utiliza métodos modernos de manipulação de arrays para aplicar filtros, descontos e cálculos de valores, com foco em interatividade e lógica de programação.
+## 🚀 Tecnologias utilizadas
+- HTML5
+- CSS3
+- JavaScript
+
+## ✨ Funcionalidades
+
+Exibição dinâmica dos produtos da hamburgueria
+
+Botão Mostrar tudo (forEach) para renderizar todos os hambúrgueres
+
+Botão Mapear (map) que aplica 10% de desconto em todos os produtos
+
+Botão Somar tudo (reduce) para calcular o valor total dos hambúrgueres
+
+Botão Filtrar (filter) para exibir apenas hambúrgueres veganos
+
+Interações dinâmicas com JavaScript
+
+Layout responsivo para desktop e mobile
+
+## 🧠 Conceitos aplicados
+
+Manipulação de arrays em JavaScript
+
+Programação funcional (forEach, map, reduce, filter)
+
+Renderização dinâmica de elementos na DOM
+
+## 📂 Estrutura do projeto
+```
+hamburgueria/
+├── assets/
+│   └── images/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+## 🖼️ Preview
+<p align="center">
+  <img src='https://raw.githubusercontent.com/JeanHolanda/Projeto-Hamburgueria/a43df38ba9fda48c701b44620848ac4cda94a3e6/assets/Beige%20Minimalist%20New%20Website%20Launch%20Instagram%20Post%20(1).png'   width="600">
+</p>
+
+## 🔗 Acesso ao projeto
+https://jeanholanda.github.io/hamburgueria/
+
+
