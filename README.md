@@ -43,7 +43,8 @@ hamburgueria/
 ```
 ## 🖼️ Preview
 <p align="center">
-  <img src='assets/Beige Minimalist Mockup Instagram Post.png'   width="600">
+  <img src='assets/Beige Minimalist Mockup Instagram Post.png' width="600">
+  <img src='assets/Beige Minimalist Mockup Instagram Post (1).png' width="600">
 </p>
 
 ## 🔗 Acesso ao projeto
