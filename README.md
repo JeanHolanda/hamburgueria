@@ -43,7 +43,7 @@ hamburgueria/
 ```
 ## 🖼️ Preview
 <p align="center">
-  <img src='https://raw.githubusercontent.com/JeanHolanda/Projeto-Hamburgueria/a43df38ba9fda48c701b44620848ac4cda94a3e6/assets/Beige%20Minimalist%20New%20Website%20Launch%20Instagram%20Post%20(1).png'   width="600">
+  <img src='assets/Beige Minimalist Mockup Instagram Post.png'   width="600">
 </p>
 
 ## 🔗 Acesso ao projeto
